@@ -1,0 +1,19 @@
+.nombre{
+    font-size: 60px;
+    color: darkslategray;
+}
+.primero{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img_perfil {
+    max-width: 150px;
+  }
+#educacion {
+    color: brown;
+    font-size: 24px;
+  }
+  
+#contactar {
+    color: darkgreen;
+    font-size: 24px;
+  }
